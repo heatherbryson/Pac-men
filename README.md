@@ -1,10 +1,10 @@
 # Pac-Men
-This assingment gave us a better understanding of how to interface three languages with the DOM. Using Java Script, HTML, and CSS we were able to create a Pac Man factory that allows infinte amount of pac man to bounce around the screen. 
+This assingment gave us a better understanding of how to interface languages with the DOM. Using Java Script, and HTML we were able to create a Pac Man factory that allows infinte amount of pac man to bounce around the screen. 
 
 To play along, select the "add pacman" button as many times as you'd like then select "start game" and watch as the jump around on the screen. The more you select "start game, the faster they go!
 
 ## How to Run
-Download the html, css, and js file to your computer and you should be able to run the index.html file on your local browser.
+Download the necessary files to your computer and you should be able to run the index.html file on your local browser.
 
 ## Future Improvments
 Future improvments for this code could be to change the color or size of the pacmen each time the hit the margin lines
